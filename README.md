@@ -2,10 +2,11 @@
 HAND DETECTION & SAFETY PROJECT
 By :- SARANG TAMRAKAR
 
-**Problem Statement : - There is one sheder machine (which generally takes the Garbage as input) ,input provided by the worker of that company but while giving the input to machine there are high chances of Permanent hand damage due to rigid Jaw of sheder machine.
-So our work to detect the hand of worker while passing the garbage to the machine  , there are two safety lines. 1. Blue line = for threatening the worker by ALERT sound 
-                       2. Red Line= for stopping the machine if hand crosses to that red line & after hand
-                                              returning start the machine again (by connecting the relay)**
+**Problem Statement : -** There is one sheder machine (which generally takes the Garbage as input) ,input provided by the worker of that company but while giving the input to machine there are high chances of Permanent hand damage due to rigid Jaw of sheder machine.
+So our work to detect the hand of worker while passing the garbage to the machine  , there are two safety lines. 
+
+**1. Blue line** = for threatening the worker by ALERT sound 
+**2. Red Line** = for stopping the machine if hand crosses to that red line & after hand returning start the machine again (by connecting the relay)
 
 **Solution:-** This solution of this problem have to be in REAL TIME , so we have selected the SSD MOBILENET Model, which will detect the object into real time.
 
